@@ -1,4 +1,4 @@
-These vars won't work as it, you'll need to add your own. 
+These vars won't work as is, you'll need to add your own. 
 
 ## Set up vars
 export FORGE_ID=0xf40cc1a5ccca85dcb2b94a97496b3c31e6ff02f0df0627f4b7478ce202b9f92c \
