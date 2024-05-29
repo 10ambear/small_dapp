@@ -1,3 +1,5 @@
+These vars won't work as it, you'll need to add your own. 
+
 ## Set up vars
 export FORGE_ID=0xf40cc1a5ccca85dcb2b94a97496b3c31e6ff02f0df0627f4b7478ce202b9f92c \
 export TO_ADDRESS=0x48ccc6e7c34bacfc8bb786b2ebd5e43b5b65011a48c0137e71cc794dc9f9e1f1 \
